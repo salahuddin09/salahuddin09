@@ -1,3 +1,6 @@
+ <a href="https://app.daily.dev/salahuddin09"><img src="https://api.daily.dev/devcards/96814f8e32d64d80a05d74ef3c2787a4.png?r=1rx" width="400" align="right" alt="rony rony's Dev Card"/></a>
+
+
 ### Hi there 👋
 
 <!--
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
 It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **6 years** of professional experience in Enterprise Application and Software Development.
@@ -39,6 +43,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
     <td><b style="font-size:30px">4. Database Design</b></td>
  </tr>
 </table>
+
 
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒
 
@@ -70,3 +75,6 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** salahuddincse09@gmail.com
+ 
+
+
