@@ -1,5 +1,5 @@
- <a href="https://app.daily.dev/salahuddin09"><img src="https://api.daily.dev/devcards/96814f8e32d64d80a05d74ef3c2787a4.png?r=1rx" width="400" align="right" alt="rony rony's Dev Card"/></a>
-
+ <!-- <a href="https://app.daily.dev/salahuddin09"><img src="https://api.daily.dev/devcards/96814f8e32d64d80a05d74ef3c2787a4.png?r=1rx" width="400" align="right" alt="rony rony's Dev Card"/></a>
+-->
 
 ### Hi there 👋
 
