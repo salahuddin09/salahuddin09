@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
 It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **6 years** of professional experience in Enterprise Application and Software Development.
@@ -44,8 +45,9 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
  </tr>
 </table>
 
+https://github-readme-stats.vercel.app/api?username=salahuddin09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-# 💪 𝐒𝐊𝐈𝐋𝐋𝐒
+# 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
   **Java | JavaScript | TypeScript**
@@ -75,6 +77,6 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** salahuddincse09@gmail.com
- 
+
 
 
