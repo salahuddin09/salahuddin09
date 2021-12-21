@@ -30,7 +30,6 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
     <td><b style="font-size:30px">1. Clean Architecture</b></td>
     <td><b style="font-size:30px">2. Domain-Driven Design</b></td>
  </tr>
-  <!--
  <tr>
     <td><b style="font-size:30px">3. Event Driven Architecture</b></td>
     <td><b style="font-size:30px">4. Event Sourcing</b></td>
@@ -39,7 +38,6 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
     <td><b style="font-size:30px">5. Cloud Functions</b></td>
     <td><b style="font-size:30px">6. Azure DevOps, CI/CD pipeline integration</b></td>
  </tr>
--->
   <tr>
     <td><b style="font-size:30px">3. System Analyst</b></td>
     <td><b style="font-size:30px">4. Database Design</b></td>
