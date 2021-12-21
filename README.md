@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **6 years** of professional experience in Enterprise Application and Software Development.
+It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **5 years** of professional experience in Enterprise Application and Software Development.
 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 <table border="0">
@@ -50,23 +50,23 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 # 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **Java | JavaScript | TypeScript**
+  **Java | JavaScript **  <!-- | TypeScript -->
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**JavaEE | Spring | React  **
+**JavaEE | Spring  **  <!--  | React -->
 <!--
 ## 𝗖𝗹𝗼𝘂𝗱
 **Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
 -->
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
-**MySQL 
+**MySQL | MongoDB**
 <!-- | PostgreSQL | MongoDB | Redis | EventStoreDB** -->
 
 ## 𝐓𝐨𝐨𝐥𝐬
 **| Git  | Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
-**MVC | REST API |  Domain Driven Design | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture -->
+**MVC | REST API | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery **
