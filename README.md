@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
 It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **5 years** of professional experience in Enterprise Application and Software Development.
+<!--
 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 <table border="0">
@@ -44,6 +45,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
     <td><b style="font-size:30px">4. Database Design</b></td>
  </tr>
 </table>
+--!>
 <img src="https://github-readme-stats.vercel.app/api?username=salahuddin09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" align="right" alt="Git Stats Card"/>
 
 
