@@ -45,7 +45,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
     <td><b style="font-size:30px">4. Database Design</b></td>
  </tr>
 </table>
---!>
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=salahuddin09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" align="right" alt="Git Stats Card"/>
 
 
