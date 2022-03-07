@@ -2,7 +2,7 @@
 -->
 
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=salahuddin09&color=blue)
 <!--
 **salahuddin09/salahuddin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
