@@ -50,10 +50,10 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 # 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **Java | JavaScript **  <!-- | TypeScript -->
+  **Java | JavaScript**  <!-- | TypeScript -->
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**JavaEE | Spring  **  <!--  | React -->
+**JavaEE | Spring**  <!--  | React -->
 <!--
 ## 𝗖𝗹𝗼𝘂𝗱
 **Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
@@ -69,7 +69,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 **MVC | REST API | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
-**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery **
+**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery**
 <!--
 ## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
 **Regular HackerRank and LeetCode problems solver.**
