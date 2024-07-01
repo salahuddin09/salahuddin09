@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **5 years** of professional experience in Enterprise Application and Software Development.
+It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer with more than **9 years** of professional experience in Enterprise Application and Software Development.
 <!--
 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 
@@ -59,8 +59,8 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 **Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
 -->
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
-**MySQL | MongoDB**
-<!-- | PostgreSQL | MongoDB | Redis | EventStoreDB** -->
+**MySQL | PostgreSQL | Oracle | MongoDB | Redis**
+<!-- | MongoDB  | EventStoreDB** -->
 
 ## 𝐓𝐨𝐨𝐥𝐬
 **| Git  | Swagger/OpenAPI**
