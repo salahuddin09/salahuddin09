@@ -63,7 +63,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 <!-- | MongoDB  | EventStoreDB** -->
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**| Git  | Swagger/OpenAPI**
+**Git | Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
