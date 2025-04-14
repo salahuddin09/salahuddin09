@@ -53,7 +53,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
   **Java | JavaScript**  <!-- | TypeScript -->
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**JavaEE | Spring**  <!--  | React -->
+**JavaEE | Spring | Hibernate**  <!--  | React -->
 <!--
 ## 𝗖𝗹𝗼𝘂𝗱
 **Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
@@ -63,7 +63,7 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 <!-- | MongoDB  | EventStoreDB** -->
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Git | Swagger/OpenAPI**
+**Git | Swagger/OpenAPI | Jasper Report**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
