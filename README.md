@@ -66,10 +66,10 @@ It’s me, Mohammad Salah Uddin Shah, a Software Engineer, Passionate Programmer
 **Git | Swagger/OpenAPI | Jasper Report**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
-**MVC | REST API | TDD**  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
+**MVC | REST API | TDD |  Microservice **  <!-- Microservice | CQRS and Event Sourcing |  Event Driven Architecture |  Domain Driven Design -->
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
-**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery**
+**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | VUE JS**
 <!--
 ## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
 **Regular HackerRank and LeetCode problems solver.**
